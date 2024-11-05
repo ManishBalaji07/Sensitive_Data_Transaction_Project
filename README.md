@@ -7,7 +7,7 @@ This project aims to provide a secure framework for managing sensitive data tran
 ## Skills Covered
 
 - Frontend: HTML, CSS, JavaScript.
-- Backend: Java, JSP.
+- Backend: Java (JSP/Servlets).
 - Database: MYSQL.
 - Framework: Eclipse.
 - Blockchain techniques and algorithms.
