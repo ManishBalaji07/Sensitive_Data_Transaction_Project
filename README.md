@@ -15,4 +15,4 @@ This project aims to provide a secure framework for managing sensitive data tran
 
 ## Project Deployment
 
-I have attached the complete project details in a folder named Project_PDF, which includes a PDF with information about the project's functionality, output, and the contributions of all team members. Please refer to Project_Pdf for any further information.
+I have attached the complete project report in a folder named Project_PDF, which includes a PDF with information about the project's functionality, output, and the contributions of all team members. Please refer to Project_Pdf for any further information.
